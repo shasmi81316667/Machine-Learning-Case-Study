@@ -98,17 +98,17 @@
 ### Final comparison table
 
 | Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
-|---|---|---|---|---|---|
-| Logistic Regression | | | | | |
-| KNN | | | | | |
-| Gaussian Naive Bayes | | | | | |
-| Decision Tree | | | | | |
-| SVC | | | | | |
-| Random Forest | | | | | |
-| AdaBoost | | | | | |
-| Gradient Boosting | | | | | |
-| Bagging (Decision Tree) | | | | | |
-| MLP Neural Network | | | | | |
+|---|---:|---:|---:|---:|---:|
+| Logistic Regression | 0.6478 | 0.6972 | 0.6478 | 0.6403 | 0.8861 |
+| KNN | 0.6967 | 0.7036 | 0.6967 | 0.6930 | 0.8858 |
+| Gaussian Naive Bayes | 0.5913 | 0.6517 | 0.5913 | 0.5668 | 0.8775 |
+| Decision Tree | 0.7044 | 0.7101 | 0.7044 | 0.7066 | 0.8029 |
+| SVC | 0.7121 | 0.7437 | 0.7121 | 0.7110 | 0.9156 |
+| Random Forest | 0.7584 | 0.7736 | 0.7584 | 0.7613 | 0.9329 |
+| AdaBoost | 0.5501 | 0.6514 | 0.5501 | 0.5105 | 0.8147 |
+| Gradient Boosting | 0.7661 | 0.7735 | 0.7661 | 0.7671 | 0.9318 |
+| Bagging (Decision Tree) | 0.7995 | 0.8081 | 0.7995 | 0.8009 | 0.9355 |
+| MLP Neural Network | 0.7249 | 0.7365 | 0.7249 | 0.7278 | 0.9024 |
 
 ### Plots for the 10 algorithms
 
